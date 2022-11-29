@@ -1,4 +1,4 @@
-# Experiment - 4 -- Implementation-of-MLP-with-Backpropagation
+# Implementation-of-MLP-with-Backpropagation
 
 ## AIM :
 
